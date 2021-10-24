@@ -29,7 +29,7 @@ Bibtex entry:
     
 - [Dr. Igor Araújo Vieira](https://orcid.org/0000-0003-0557-3521) - Researcher ([Experimental Research Center](https://www.hcpa.edu.br/pesquisa/grupos-de-pesquisa/centro-de-pesquisa-experimental-cpe) - [HCPA](https://www.hcpa.edu.br/))
 
-- [Dr. Jorge Parraga-Alava](https://scholar.google.com/citations?user=KFfidFEAAAAJ&hl=pt-PT) - PhD student ([Institute of Informatics](https://www.inf.ufrgs.br/site/en) - [UFRGS](http://www.ufrgs.br/english/home))
+- [Dr. Jorge Parraga-Alava](https://orcid.org/0000-0001-8558-9122) - Associate Professor ([Facultad de Ciencias Informaticas](https://www.utm.edu.ec/fci/) - [UTM](https://www.utm.edu.ec/))
 
 - Structural Bioinformatics and Computational Biology Lab: [http://sbcb.inf.ufrgs.br/](http://sbcb.inf.ufrgs.br/)
 
