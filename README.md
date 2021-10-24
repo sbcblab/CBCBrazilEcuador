@@ -9,7 +9,8 @@ Feltes BC, Vieira IA, Parraga-Alava J, Meza J, Dorn M. 2021. Using feature selec
 Bibtex entry:
 ```
 @article{,
-  title={Using feature selection approaches to understand peripheral blood parameter’s changes in COVID-19 infections from Brazil and Ecuador},
+  title={Using feature selection approaches to understand peripheral blood 
+  parameter’s changes in COVID-19 infections from Brazil and Ecuador},
   author={Feltes BC, Vieira IA, Parraga-Alava J, Meza J, Dorn M},
   journal={},
   year={2021},
