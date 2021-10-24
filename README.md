@@ -24,19 +24,12 @@ Bibtex entry:
 - [Dr. Marcio Dorn](https://orcid.org/0000-0001-8534-3480) - Associate Professor ([Institute of Informatics](https://www.inf.ufrgs.br/site/en) - [UFRGS](http://www.ufrgs.br/english/home))
 
     - mdorn@inf.ufrgs.br
-    
-- [Igor Araújo Vieira](https://orcid.org/0000-0003-0557-3521) - Researcher ([Experimental Research Center](https://www.hcpa.edu.br/pesquisa/grupos-de-pesquisa/centro-de-pesquisa-experimental-cpe) - [HCPA](https://www.hcpa.edu.br/))
-
-
-- [Pedro Narloch](https://scholar.google.com/citations?user=KFfidFEAAAAJ&hl=pt-PT) - PhD student ([Institute of Informatics](https://www.inf.ufrgs.br/site/en) - [UFRGS](http://www.ufrgs.br/english/home))
 
 - [Dr. Bruno César Feltes](https://orcid.org/0000-0002-2825-8295) - Post-Doctorate ([Center for Biotechnology](https://www.ufrgs.br/ppgbcm/?lang=en) - [UFRGS](http://www.ufrgs.br/english/home))
+    
+- [Dr. Igor Araújo Vieira](https://orcid.org/0000-0003-0557-3521) - Researcher ([Experimental Research Center](https://www.hcpa.edu.br/pesquisa/grupos-de-pesquisa/centro-de-pesquisa-experimental-cpe) - [HCPA](https://www.hcpa.edu.br/))
 
-- [Dr. Eduardo Avila]() - Post-Doctorate ([Forensic Genetics Laboratory, School of Health and Life Sciences](https://www.pucrs.br/health-sciences/) - [PUCRS](https://www.pucrs.br/en/))
-
-- [Dr. Alessandro Kahmann](http://lattes.cnpq.br/4661839485236719) - Professor ([Institute of Mathematics, Statistics and Physics](https://imef.furg.br/) - [FURG](https://www.furg.br/en/))
-
-- [Dr. Clarice Alho](https://orcid.org/0000-0002-4819-9587) - Professor ([Forensic Genetics Laboratory, School of Health and Life Sciences](https://www.pucrs.br/health-sciences/) - [PUCRS](https://www.pucrs.br/en/))
+- [Dr. Jorge Parraga-Alava](https://scholar.google.com/citations?user=KFfidFEAAAAJ&hl=pt-PT) - PhD student ([Institute of Informatics](https://www.inf.ufrgs.br/site/en) - [UFRGS](http://www.ufrgs.br/english/home))
 
 - Structural Bioinformatics and Computational Biology Lab: [http://sbcb.inf.ufrgs.br/](http://sbcb.inf.ufrgs.br/)
 
