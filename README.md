@@ -21,9 +21,7 @@ Bibtex entry:
 
 ## Contact information
 
-- [Dr. Marcio Dorn](https://orcid.org/0000-0001-8534-3480) - Associate Professor ([Institute of Informatics](https://www.inf.ufrgs.br/site/en) - [UFRGS](http://www.ufrgs.br/english/home))
-
-    - mdorn@inf.ufrgs.br
+- [Dr. Marcio Dorn](https://orcid.org/0000-0001-8534-3480) - Associate Professor ([Institute of Informatics](https://www.inf.ufrgs.br/site/en) - [UFRGS](http://www.ufrgs.br/english/home)) - mdorn@inf.ufrgs.br
 
 - [Dr. Bruno César Feltes](https://orcid.org/0000-0002-2825-8295) - Assistant Professor ([Institute of Biosciences](https://www.ufrgs.br/biociencias/) - [UFRGS](http://www.ufrgs.br/english/home))
     
