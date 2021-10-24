@@ -4,18 +4,18 @@
 
 If you use our code, methods, or results in your research, please cite the main publication:
 
-Dorn M, Grisci BI, Narloch PH, Feltes BC, Avila E, Kahmann A, Alho CS. 2021. Comparison of machine learning techniques to handle imbalanced COVID-19 CBC datasets. PeerJ Computer Science 7:e670. DOI: https://doi.org/10.7717/peerj-cs.670
+Feltes BC, Vieira IA, Parraga-Alava J, Mesa J, Dorn M. 2021. Using feature selection approaches to understand peripheral bloodparameter’s changes in COVID-19 infections from Brazil and Ecuador. DOI: 
 
 Bibtex entry:
 ```
 @article{,
-  title={Comparison of machine learning techniques to handle imbalanced COVID-19 CBC datasets},
-  author={Dorn M, Grisci BI, Narloch PH, Feltes BC, Avila E, Kahmann A, Alho CS},
-  journal={PeerJ Computer Science},
+  title={Using feature selection approaches to understand peripheral bloodparameter’s changes in COVID-19 infections from Brazil and Ecuador},
+  author={Feltes BC, Vieira IA, Parraga-Alava J, Mesa J, Dorn M},
+  journal={},
   year={2021},
-  doi = {https://doi.org/10.7717/peerj-cs.670},
-  volume = {7},
-  pages = {e670}
+  doi = {},
+  volume = {},
+  pages = {}
 }
 ```
 
