@@ -25,7 +25,7 @@ Bibtex entry:
 
     - mdorn@inf.ufrgs.br
 
-- [Dr. Bruno César Feltes](https://orcid.org/0000-0002-2825-8295) - Post-Doctorate ([Center for Biotechnology](https://www.ufrgs.br/ppgbcm/?lang=en) - [UFRGS](http://www.ufrgs.br/english/home))
+- [Dr. Bruno César Feltes](https://orcid.org/0000-0002-2825-8295) - Assistant Professor ([Institute of Biosciences](https://www.ufrgs.br/biociencias/) - [UFRGS](http://www.ufrgs.br/english/home))
     
 - [Dr. Igor Araújo Vieira](https://orcid.org/0000-0003-0557-3521) - Researcher ([Experimental Research Center](https://www.hcpa.edu.br/pesquisa/grupos-de-pesquisa/centro-de-pesquisa-experimental-cpe) - [HCPA](https://www.hcpa.edu.br/))
 
