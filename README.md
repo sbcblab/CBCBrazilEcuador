@@ -24,8 +24,9 @@ Bibtex entry:
 - [Dr. Marcio Dorn](https://orcid.org/0000-0001-8534-3480) - Associate Professor ([Institute of Informatics](https://www.inf.ufrgs.br/site/en) - [UFRGS](http://www.ufrgs.br/english/home))
 
     - mdorn@inf.ufrgs.br
+    
+- [Igor Araújo Vieira](https://orcid.org/0000-0003-0557-3521) - Researcher ([Experimental Research Center, Hospital de Clínicas de Porto Alegre (HCPA)](https://www.hcpa.edu.br/) - [HCPA](https://www.hcpa.edu.br/))
 
-- [Bruno I. Grisci](https://orcid.org/0000-0003-4083-5881) - PhD student ([Institute of Informatics](https://www.inf.ufrgs.br/site/en) - [UFRGS](http://www.ufrgs.br/english/home))
 
 - [Pedro Narloch](https://scholar.google.com/citations?user=KFfidFEAAAAJ&hl=pt-PT) - PhD student ([Institute of Informatics](https://www.inf.ufrgs.br/site/en) - [UFRGS](http://www.ufrgs.br/english/home))
 
